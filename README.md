@@ -1,2 +1,8 @@
-# MicrosoftExcel
-Proyecto en el que se analizarán bases de datos con el software Microsoft Excel con distintos objetivos
+# Análisis de ventas 
+
+## Contexto 
+Este archivo es de prueba, funciona para entender cómo funciona Github Web
+Esta práctica es relevante para entender cómo funciona la plataforma.
+
+## Objetivo
+Entender las opciones de la plataforma para cargar archivos y editar
