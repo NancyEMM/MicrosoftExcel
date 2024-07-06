@@ -15,3 +15,7 @@ Entender las opciones de la plataforma para cargar archivos y editar
    - Mismo concepto del ejemplo de guión anterior
   <img width="526" alt="Captura de pantalla 2024-07-05 a la(s) 20 27 41" src="https://github.com/NancyEMM/MicrosoftExcel/assets/174390332/a727b7cb-8e66-4405-975b-52e0fad80223">
 
+
+### Código utilizado en el análisis
+``` SELECT * FROM Table ```
+
